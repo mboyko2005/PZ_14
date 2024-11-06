@@ -1,0 +1,14 @@
+<Employees>
+	<Employee>
+		<Name>Иван Иванов</Name>
+		<Position>Менеджер</Position>
+		<Salary>70000</Salary>
+		<WorkSchedule>9:00 - 18:00</WorkSchedule>
+	</Employee>
+	<Employee>
+		<Name>Пётр Петров</Name>
+		<Position>Разработчик</Position>
+		<Salary>90000</Salary>
+		<WorkSchedule>10:00 - 19:00</WorkSchedule>
+	</Employee>
+</Employees>
